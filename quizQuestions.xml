@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!--
+An XML file containing the questions and answers used in online EduMath tests.
+-->
+
+
+<quiz>
+    <title> Edumath Quiz </title>
+    
+        <questions>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            <question>
+                <quizQuestion> what is 10/2? </quizQuestion>
+                <answer> 230 </answer>
+                <answer> 33 </answer>
+                <answer> 44 </answer>
+                <answer> 5 </answer>
+                <correct> 4 </correct>
+            </question>
+            
+            
+            
+            
+    
+</quiz>
